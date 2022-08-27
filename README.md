@@ -86,3 +86,7 @@ Completing the project involves several steps:
 6. Create a CodeBuild stage which will build, test, and deploy your code
 
 For more detail about each of these steps, see the project lesson.
+
+## Triggering a build
+
+- Make a change to any file and push to the repository
